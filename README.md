@@ -1,3 +1,7 @@
+![Blockchain Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFEA&center=true&vCenter=true&width=900&lines=🌍Decentralized+Future+Loading)
+
+
+
 <h1 align="center">Hi 👋, I'm Juhir</h1>
 <h3 align="center">A passionate smart contract developer and security researcher developer from India</h3>
 
