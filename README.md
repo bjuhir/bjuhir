@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **smart contract security**
 
-- - 👯 I’m looking to collaborate on **Solidity smart contract development and auditing**
+- 👯 I’m looking to collaborate on **Solidity smart contract development and auditing**
 
 - 💬 Ask me about **💸 DeFi | 🔒Web3 Security| 🧱 Blockchain | 🧩 Solidity | 🔥Foundry |🏋️ Fitness**
 
