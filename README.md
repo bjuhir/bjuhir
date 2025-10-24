@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **smart contract security**
 
-- 💬 Ask me about **🚀 Crypto | 💸 DeFi | 🔒 Security | 🧠 Web3 | 🧱 Blockchain | 🧩 Solidity | 🏋️ Fitness**
+- - 👯 I’m looking to collaborate on **Solidity smart contract development and auditing**
+
+- 💬 Ask me about **💸 DeFi | 🔒Web3 Security| 🧱 Blockchain | 🧩 Solidity | 🔥Foundry |🏋️ Fitness**
 
 - 📫 How to reach me **binwazidjuhir@gmail.com**
 
@@ -28,3 +30,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bjuhir&show_icons=true&locale=en&layout=compact" alt="bjuhir" /></p>
 
+<p align="center">
+  🙏Thanks for visiting my profile! Feel free to connect or reach out!
+</p>
