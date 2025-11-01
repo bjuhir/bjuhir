@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Juhir</h1>
-<h3 align="center">A passionate smart contract developer and security researcher developer from India</h3>
+<h3 align="center">A passionate smart contract developer and security researcher from India</h3>
 
 - 🌱 I’m currently learning **smart contract security**
 
