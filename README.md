@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Solidity smart contract development and auditing**
 
-- 💬 Ask me about **💸 DeFi | 🔒Web3 Security| 🧱 Blockchain | 🧩 Solidity | 🔥Foundry |🏋️ Fitness**
+- 💬 Ask me about **💸 DeFi | 🔒Web3 Security| 🧱 Blockchain | 🧩 Solidity | 🔥Foundry **
 
 - 📫 How to reach me **binwazidjuhir@gmail.com**
 
